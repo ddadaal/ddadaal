@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing😭️ (too lazy). 
-- 🌱 I’m currently learning HPC stuff for study in PKU.
+- 🔭 I’m currently working on [yaarxiv], yet another preprint platform like arxiv.
 - 💬 Ask me about web frontend and how to develop effectively on Windows.
 - 📫 How to reach me: https://ddadaal.me
 - ⚡ Fun fact: Deadline is always the primary productive force.
