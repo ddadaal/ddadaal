@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [SCOW](https://github.com/PKUHPC/SCOW) and some internal management information systems with the support from my lab but mostly on my own. I am already welcome to more innovative and challenging projects.
+- 🔭 I am currently working in Microsoft as a software engineer based in Shanghai.
 - 💬 Ask me about **web development** (both frontend and backend) and **how to develop effectively on Windows**.
 - 📫 How to reach me: my website https://ddadaal.me, and you can find more channels in the homepage (QQ, Email etc.)
 
